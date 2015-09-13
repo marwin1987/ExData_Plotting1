@@ -1,8 +1,9 @@
 ##Explanatory Data Analysis Project 1
 
-This repo should contain 8 files, but only includes 4.
-Only the 4 code files are entered in this repo
-The reason why the other 4 png files are not included is because I don't get the images uploaded
+This repo contains 8 files:
+- 4 code files for the graps
+- 4 links from my dropbox account to the graphs, I don't get the graphs uploaded 
+By viewing the link my graphs are still viewable - sorry for the extra work folks!
 
 The right files are not in the map "figures" but below, with the right names
 
